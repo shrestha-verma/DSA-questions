@@ -6,5 +6,10 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
