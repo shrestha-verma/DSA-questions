@@ -24,6 +24,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrestha-verma/DSA-questions/tree/master/0283-move-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -31,6 +32,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +54,17 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
