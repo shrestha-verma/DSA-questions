@@ -19,6 +19,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
@@ -60,6 +61,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
