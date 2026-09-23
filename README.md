@@ -11,6 +11,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
