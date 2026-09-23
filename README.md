@@ -72,4 +72,12 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
