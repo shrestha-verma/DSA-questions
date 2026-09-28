@@ -13,9 +13,10 @@ class Solution {
     bool isIdentical(TreeNode* root,TreeNode* subroot){
         if(root==NULL&&subroot==NULL) return true; //checking both nodes are null then return true;
         if(root==NULL||subroot==NULL) return false;  //checking if either of them is null than return false;
-        if(root->val!=subroot->val) return false;
-
-        return isIdentical(root->left,subroot->left)&&isIdentical(root->right,subroot->right);
+        if(root->val==subroot->val){
+            return isIdentical(root->left,subroot->left)&& isIdentical(root->right,subroot->right);
+        }
+        return false;
     }
 public:
     bool isSubtree(TreeNode* root, TreeNode* subroot) {
