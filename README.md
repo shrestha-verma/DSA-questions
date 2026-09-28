@@ -45,6 +45,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -130,4 +133,8 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
