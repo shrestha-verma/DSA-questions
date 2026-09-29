@@ -8,6 +8,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +138,8 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
