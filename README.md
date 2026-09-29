@@ -6,6 +6,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -141,5 +142,14 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
