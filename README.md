@@ -38,6 +38,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/shrestha-verma/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/shrestha-verma/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrestha-verma/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shrestha-verma/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
@@ -112,6 +115,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrestha-verma/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shrestha-verma/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
