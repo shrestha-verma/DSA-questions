@@ -15,6 +15,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shrestha-verma/DSA-questions/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
@@ -78,6 +80,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -156,4 +159,12 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
