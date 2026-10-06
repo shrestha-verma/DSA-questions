@@ -29,6 +29,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shrestha-verma/DSA-questions/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shrestha-verma/DSA-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -189,4 +191,8 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrestha-verma/DSA-questions/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
