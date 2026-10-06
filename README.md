@@ -16,6 +16,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrestha-verma/DSA-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shrestha-verma/DSA-questions/tree/master/0283-move-zeroes) |
@@ -89,6 +90,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
