@@ -33,6 +33,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrestha-verma/DSA-questions/tree/master/0283-move-zeroes) |
+| [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/shrestha-verma/DSA-questions/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
+| [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
+| [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +158,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shrestha-verma/DSA-questions/tree/master/0316-remove-duplicate-letters) |
+| [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,4 +171,8 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shrestha-verma/DSA-questions/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 <!---LeetCode Topics End-->
