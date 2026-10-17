@@ -70,6 +70,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shrestha-verma/DSA-questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -84,6 +85,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0136-single-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/shrestha-verma/DSA-questions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -102,6 +104,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shrestha-verma/DSA-questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
