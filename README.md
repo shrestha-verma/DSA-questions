@@ -40,6 +40,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0485-max-consecutive-ones](https://github.com/shrestha-verma/DSA-questions/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
+| [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0169-majority-element](https://github.com/shrestha-verma/DSA-questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -198,4 +201,8 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
