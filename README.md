@@ -10,6 +10,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shrestha-verma/DSA-questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
