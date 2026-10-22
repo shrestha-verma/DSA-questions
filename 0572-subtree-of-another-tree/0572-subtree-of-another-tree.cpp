@@ -10,21 +10,21 @@
  * };
  */
 class Solution {
-    bool isIdentical(TreeNode* root,TreeNode* subroot){
-        if(root==NULL&&subroot==NULL) return true; //checking both nodes are null then return true;
-        if(root==NULL||subroot==NULL) return false;  //checking if either of them is null than return false;
-        if(root->val==subroot->val){
-            return isIdentical(root->left,subroot->left)&& isIdentical(root->right,subroot->right);
-        }
-        return false;
-    }
+    // Worker 1: Mirror check (Strict equality check)
+    bool isIdentical(TreeNode* root, TreeNode* subRoot) {
+        if (root == nullptr && subRoot == nullptr) return true;
+        if (root == nullptr || subRoot == nullptr) return false;
+        if (root->val != subRoot->val) return false; 
+
+        return isIdentical(root->left, subRoot->left) && isIdentical(root->right, subRoot->right);
+    } 
+
 public:
-    bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        if(subroot==NULL) return true;
-        if(root==NULL) return false;
-
-        if(isIdentical(root,subroot)) return true;
-
-        return isSubtree(root->left,subroot)||isSubtree(root->right,subroot);
+    
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        if (subRoot == nullptr) return true;
+        if (root == nullptr) return false;
+        if (isIdentical(root, subRoot)) return true; 
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
 };
