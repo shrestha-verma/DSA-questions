@@ -10,6 +10,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0344-reverse-string](https://github.com/shrestha-verma/DSA-questions/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2409-count-days-spent-together](https://github.com/shrestha-verma/DSA-questions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shrestha-verma/DSA-questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
+| [2409-count-days-spent-together](https://github.com/shrestha-verma/DSA-questions/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
