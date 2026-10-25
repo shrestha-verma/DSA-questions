@@ -40,6 +40,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0283-move-zeroes](https://github.com/shrestha-verma/DSA-questions/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/shrestha-verma/DSA-questions/tree/master/0485-max-consecutive-ones) |
+| [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -66,6 +67,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
+| [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -131,11 +133,13 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrestha-verma/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +211,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 ## Enumeration
 |  |
 | ------- |
