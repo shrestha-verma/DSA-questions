@@ -43,6 +43,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -69,6 +70,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0054-spiral-matrix](https://github.com/shrestha-verma/DSA-questions/tree/master/0054-spiral-matrix) |
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -134,12 +136,14 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0543-diameter-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shrestha-verma/DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +216,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shrestha-verma/DSA-questions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
