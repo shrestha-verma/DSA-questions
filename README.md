@@ -45,6 +45,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -64,6 +65,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0509-fibonacci-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +73,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/shrestha-verma/DSA-questions/tree/master/1572-matrix-diagonal-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -99,6 +102,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
