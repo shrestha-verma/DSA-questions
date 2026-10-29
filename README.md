@@ -11,6 +11,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0709-to-lower-case](https://github.com/shrestha-verma/DSA-questions/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrestha-verma/DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2409-count-days-spent-together](https://github.com/shrestha-verma/DSA-questions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shrestha-verma/DSA-questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shrestha-verma/DSA-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -60,6 +62,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0053-maximum-subarray](https://github.com/shrestha-verma/DSA-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrestha-verma/DSA-questions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/shrestha-verma/DSA-questions/tree/master/0324-wiggle-sort-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -102,6 +105,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0231-power-of-two](https://github.com/shrestha-verma/DSA-questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/shrestha-verma/DSA-questions/tree/master/0268-missing-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shrestha-verma/DSA-questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/shrestha-verma/DSA-questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
@@ -132,6 +136,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -141,6 +146,7 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 | [0572-subtree-of-another-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/shrestha-verma/DSA-questions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shrestha-verma/DSA-questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -225,4 +231,12 @@ This repo contains all questions of DSA i solved on LeetCode. It also containsa 
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/shrestha-verma/DSA-questions/tree/master/3886-sum-of-sortable-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/shrestha-verma/DSA-questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
